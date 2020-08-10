@@ -4,5 +4,6 @@
 test.py
 
 #dev
+Pipfile
+Pipfile.lock
 docker-compose.yaml
-.dockerignore
