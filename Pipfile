@@ -10,6 +10,8 @@ flask = "*"
 flask-mongoengine = "*"
 mongoengine-goodjson = "*"
 flask-restful = "*"
+flask-marshmallow = "*"
+pyjwt = "*"
 
 [requires]
 python_version = "3.8"
