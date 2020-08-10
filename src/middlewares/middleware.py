@@ -2,8 +2,8 @@ import sys
 import os
 import re
 import json
-from werkzeug.wrappers import Request, Response, ResponseStream
 import jwt
+from werkzeug.wrappers import Request, Response, ResponseStream
 
 sys.path.append('..')
 from errors.require_auth import RequireAuthError
