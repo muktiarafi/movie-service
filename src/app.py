@@ -36,5 +36,3 @@ def duplicateKeyError(error):
     response = jsonify(error.to_dict())
     response.status_code = error.status_code
     return response
-
-app.run(debug=True)
