@@ -2,3 +2,7 @@
 
 #test-file
 test.py
+
+#dev
+docker-compose.yaml
+.dockerignore
